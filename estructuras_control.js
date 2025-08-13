@@ -1,8 +1,9 @@
+// validando estructura de control if,con ejemplo de temperatura
 let temperatura = 20;
  if (temperatura >= 20) 
     { console.log("Hace calor!"); } // Resultado: "Hace calor!
 
-
+// validando estructura de control if, con ejemplo de edad
  let edad = 18;
   if (edad >= 18) 
     { console.log("Eres mayor de edad"); } // Resultado: "Eres mayor de edad"
