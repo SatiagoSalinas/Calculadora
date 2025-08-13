@@ -1,5 +1,30 @@
 {
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Calculadora parar probar funciones y plan de estructuras de control",
+  "keywords": [
+    "for",
+    "if",
+    "else",
+    "switch"
+  ],
+  "homepage": "https://github.com/SatiagoSalinas/Calculadora#readme",
+  "bugs": {
+    "url": "https://github.com/SatiagoSalinas/Calculadora/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SatiagoSalinas/Calculadora.git"
+  },
+  "license": "ISC",
+  "author": "Santiago Salinas",
+  "type": "commonjs",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "npm run test"
+  },
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
